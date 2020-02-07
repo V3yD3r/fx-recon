@@ -1,5 +1,5 @@
 #!/bin/bash
-# we'll keep 3 versions
+# we'll keep 3 sets
 rm -rf ./results-oldoldold/
 
 mv ./results-oldold/ ./results-oldoldold/
