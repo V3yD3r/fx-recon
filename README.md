@@ -5,4 +5,4 @@ recon script using various tools to gather and organize data including subdomain
 Run using fx-recon.sh
 
 intended to be used with;
-https://github.com/V3yD3r/bbht
+https://github.com/V3yD3r/WebSecTools
