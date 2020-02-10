@@ -1,7 +1,7 @@
 # fx-recon
 
 recon script using various tools to gather and organize data;
-uses amass and sublister to find subdomains and dirsearch for directories/endpoints plus nmap-ing of all subdomains and creation of custom wordlists using CeWL on the subdomains found
+uses amass and sublister to find subdomains, dirsearch for directories/endpoints plus nmap, and creation of custom wordlists using CeWL
 
 Run using fx-recon.sh
 
